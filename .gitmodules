@@ -1,0 +1,3 @@
+[submodule "Python/projects/Vending-Machine"]
+	path = Python/projects/Vending-Machine
+	url = https://github.com/WaterofLove16/Vending-Machine.git
